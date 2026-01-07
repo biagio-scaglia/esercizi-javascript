@@ -48,7 +48,8 @@ Nella cartella `esempi-pratici/` trovi 12 progetti funzionanti per vedere il cod
 9.  **Configurazione App** (ES6)
 10. **Login Async** (Async/Await)
 11. **Biblioteca** (Classi)
-12. **To-Do List** (DOM - apri index.html nel browser!)
+12. **Validatore Smart** (Proxy)
+13. **To-Do List** (DOM - Progetto Completo HTML/CSS/JS)
 
 Buon coding!
 *Biagio*
